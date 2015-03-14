@@ -16,6 +16,11 @@
 			"email": "robregonm@gmail.com",
 			"homepage": "http://obregon.co",
 			"role": "Author"
+		},
+		{
+			"name": "jomon",
+			"email": "jomonjohnson.dev@gmail.com",
+			"role": "Author"
 		}
 	],
 	"require": {
